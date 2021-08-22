@@ -52,3 +52,22 @@ section {
   margin: auto;
   margin-top: 15px;
 }
+
+.contact-card {
+  margin-bottom: 15px;
+}
+
+.contact-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.text-field {
+  width: 100%;
+}
+
+.card-actions {
+  display: flex;
+  justify-content: flex-end;
+}
